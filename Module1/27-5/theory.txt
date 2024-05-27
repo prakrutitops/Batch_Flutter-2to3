@@ -1,0 +1,79 @@
+Switch,case,break
+
+Loop:
+
+1) for
+2) while
+3) do while
+4)for in
+5)for each
+
+1)for:
+for(initialization;condition;incre/decre)
+{
+	statement
+}
+for(i=1;i<=10;i++)
+{
+	print(i);
+}
+
+
+2)while:
+initialization;
+
+while(condition)
+{
+	statement;
+	incre/decre;
+
+}
+
+
+int i=1;
+
+while(condition)
+{
+	
+
+	.
+	.
+
+}
+3)do while:
+initialization;
+
+do
+{
+	statement;
+	incre/decre;
+}
+
+
+while(condition);
+
+
+Question :
+for(i=1;i<=10;i++);
+{
+      print(i);
+}
+
+a)1 to 10
+b)compile time / Run time error
+c)11
+d)1
+
+
+Entry Control Loop
+For
+While
+
+
+Exit Control Loop
+DoWhile
+
+Jumping statement:
+break,continue
+
+
