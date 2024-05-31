@@ -1,0 +1,54 @@
+1)Functional Parameters
+Function & Parameters
+
+1)With Para With Return
+
+2)Without Para Without Return
+
+3)With Para without Reuturn type
+
+4)Without para with Return type
+
+a(gkdfjg)
+{
+
+}
+
+2)optional parameter - []
+
+
+10 fields-7
+
+3)named parameters
+
+OOP->Object Oriented Programming
+
+Features of OOP
+
+1)Object : Any entity which has own state and behaviour 
+ex: pen,paper etc..
+
+2)Class : collection of objects
+ex:human body
+
+3)Abstraction:hiding internal details and showing functionalities
+ex:Login Page
+
+4)Encapsualtion:Wrapping up of data or binding of data
+ex:capsule
+
+5)Inheritance:When One Object acquire all the proeprties and behaviour of parent class
+ex:father-son
+
+6)Polymorphism:Many ways to perform anything
+1)Method Overloading
+2)Method Overriding
+
+
+
+
+
+
+
+
+
