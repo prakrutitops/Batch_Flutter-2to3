@@ -1,0 +1,9 @@
+Constructor: When Method having a same as a classname it will pass the refrence
+
+Types of Constructor:
+
+1. Default Constructor
+2. Parameterized Constructor
+3. Named Constructor
+
+refrence pass on -> this keyword
