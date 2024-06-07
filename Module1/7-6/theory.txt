@@ -1,0 +1,43 @@
+interface:collection of abstract methods
+
+abstract method :which does not have a body part
+
+void a()
+{
+	//body part
+}
+
+class A
+{
+	void a()
+	{
+	}
+	void a1();
+}
+
+
+abstract class will support abstract and non abstract methods
+non abstract class will only support non abstract methods
+
+
+Non Abstract class
+
+non abstract method
+abstract method
+
+
+
+static ->same memory reuse
+->new memory allocation
+
+
+polymorphism:Many Ways to perform anything
+
+1)Method Overloading :When two or more methods having a same name but number of parameters are diffrent
+2)Mehtod Overriding : When two or more methods having a same name and number of parameters are also same.
+
+
+
+
+
+
