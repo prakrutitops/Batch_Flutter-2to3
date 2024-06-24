@@ -1,0 +1,9 @@
+1)Splash Screen -> Lottie Animation
+2)Login Screen-> Mob & Password
+validation:
+empty
+mob - 10 digit
+pass - uppercase,lowercase,digit,special char,8
+3)Dashboard Screen
+Logout
+
