@@ -1,0 +1,39 @@
+1. Splash 
+2. Login
+
+Emp ->
+After Login
+Logout
+Search Products
+All Prodcuts
+[p_image,p_name,p_price,available discount,colors]
+[available quantity]
+quantity Sell Button ->Popup[Congratulations][Entry Sell]
+
+
+Admin
+Add Emp Account
+Add products
+View Prodcuts
+[p_image,p_name,p_price,available discount,colors]
+[available quantity]
+Edit Product
+Delete Product
+Search Product
+
+Check Selling->
+11
+Emp 1-
+Emp 2-
+12
+
+13
+
+14
+
+
+
+
+
+
+ 
