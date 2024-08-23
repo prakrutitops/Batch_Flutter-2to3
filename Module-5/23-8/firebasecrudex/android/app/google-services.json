@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57851577680",
+    "project_id": "test1-f659b",
+    "storage_bucket": "test1-f659b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57851577680:android:22b5428b9b670ad0de1855",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrudex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoziB07EfERdXxyy3Emng4VAIwBgvZFxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
