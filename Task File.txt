@@ -1,0 +1,28 @@
+MYSQL+Firebase
+
+Signup:
+
+firstname->textfield
+lastname->textfield
+email->textfield
+phone->textfield
+gender->radiobuttom
+Hobbies->Checkbox
+city->dropdown
+password->textfield
+
+Signup ->ElevatedButton
+
+OTP Send
+Screen OPEN - OTP ENTER ->if it's right ->signup->login redirect
+
+Login Screen-> Valid Credentials ->Login Succesfully
+
+Dashboard->Logged in ->Logout
+
+
+
+
+
+
+
