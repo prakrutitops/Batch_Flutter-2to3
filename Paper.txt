@@ -1,0 +1,40 @@
+1. Create a Program for arrange the array's data in ascending order take a user input
+
+2. Create a Program to find the sum of User's given number
+ex: If user enterd 1234 then ans should be 10
+
+3. Create a Class With the name of Student also take data memebers name,surname,email and mobile number 
+take a user input and data should be display in console [Use Parameterized Constructor]
+
+4. Create a Program for method Overloading
+
+5. Print the below Pattern 
+ 
+1
+12
+123
+1234
+12345
+
+6. Write below SQL Queries
+ table name = student
+ columns = id,name,surname,email,salary
+
+ a)insert data in table
+ b)view all data
+ c)update data
+ d)get data in ascending order
+ e)find second largest salary from table
+
+7. Create a Program for 
+1
+23
+456
+78910
+
+8. Create a Program to find the sum of first and last digit.
+Ex: 12345 ans:6
+
+ 
+
+ 
